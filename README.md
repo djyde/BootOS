@@ -1,4 +1,4 @@
-# DriverJS
+# BootOS
 
 An interface for building (frontend) enterprise management background.
 
@@ -14,7 +14,7 @@ Another example is that when we use Windows, we always install applications. Aft
 
 ## Purpose
 
-DriverJS is an interface for building this "operation system". All the "operation system" need to implement from this interface. It's something like the driver of all the "operation system", and what the name came from.
+BootOS is an interface and the basic system for building and boostraping this "operation system". It's a bit like BIOS but provide more. All the "operation system" need to implement its interface, and everyone can implement their own "operation system"
 
 # License
 
